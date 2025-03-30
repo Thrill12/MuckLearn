@@ -1,0 +1,6 @@
+Average RMSE: 8.575829401305018
+Average Accuracy within 10%: 34.458000000000006
+Average Accuracy within 15%: 45.24
+Average Accuracy within 20%: 55.117999999999995
+Average Training Time: 0:00:01.019585
+Average Correlation: 0.9088776565902055
